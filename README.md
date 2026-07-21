@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Olivia Thommana</h1>
+<h1 align="center">Hi , I'm Olivia Thommana</h1>
 <h3 align="center">B.Tech Computer Science Student | AI & ML Enthusiast</h3>
 
 <p align="center">
